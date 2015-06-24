@@ -1,13 +1,10 @@
 class BuilderChocolateDark extends BuilderChocolate
 
   buildMilk:->
-    @chocolate.setMill null
-    return null
+    super
 
   buildNuts:->
-    @chocolate.setNuts null
-    return null
+    super
 
   buildSugar:->
-    @chocolate.setSugar null
-    return null
+    super

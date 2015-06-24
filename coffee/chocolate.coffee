@@ -3,6 +3,6 @@ class Chocolate
   nuts: null
   sugar: null
 
-  setMill:(@milk) -> null
+  setMilk:(@milk) -> null
   setNuts:(@nuts) -> null
   setSugar:(@sugar) -> null
