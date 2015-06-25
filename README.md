@@ -1,3 +1,5 @@
 # pattern_builder
 
-Демонстрация паттерна Builder
+Demonstration a pattern builder
+
+language: CoffeeScript
